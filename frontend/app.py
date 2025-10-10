@@ -1,0 +1,23 @@
+import streamlit as st
+from add_update import add_update_tab
+from analytics_by_category import analytics_category_tab
+from analytics_by_months import analytics_months_tab
+from monthly_budget import monthly_budget_tab
+
+
+st.title("Expense Tracking System")
+
+tab1, tab2, tab3,tab4 = st.tabs(["Add/Update", "Analytics By Category", "Analytics By Months","Monthly Budget"])
+
+with tab1:
+    add_update_tab()
+
+with tab2:
+    analytics_category_tab()
+
+with tab3:
+    analytics_months_tab()
+
+with tab4:
+    monthly_budget_tab()
+
