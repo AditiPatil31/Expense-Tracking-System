@@ -32,22 +32,24 @@ It helps you **track daily expenses, analyze spending trends, and manage your mo
 
 ---
 
-## 🏗️ Project Structure
+## 📁 Project Structure
 
-
+```
 expense-management-system/
 │
-├── frontend/              # Streamlit frontend application
-│   └── app.py             # Main Streamlit dashboard
+├── frontend/                     # Streamlit frontend application
+│   └── app.py                    # Main Streamlit app
 │
-├── backend/               # FastAPI backend server
-│   ├── server.py          # Core FastAPI app
-│   └── db_helper.py       # Database operations
+├── backend/                      # FastAPI backend server
+│   ├── server.py                 # Core FastAPI app
+│   └── db_helper.py              # Database operations
 │
-├── tests/                 # Unit and integration tests
+├── tests/                        # Unit and integration tests
 │
-├── requirements.txt       # Required Python dependencies
-└── README.md              # Project overview and setup guide
+├── requirements.txt              # Required Python dependencies
+└── README.md                     # Project overview and setup guide
+```
+
 
 ## ⚙️ Setup Instructions
 
