@@ -55,7 +55,7 @@ expense-management-system/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/expense-tracking-system.git
+git clone https://github.com/AditiPatil31/expense-tracking-system.git
 cd expense-tracking-system
 ```
 
