@@ -75,20 +75,27 @@ streamlit run frontend/app.py
 | API Communication  | HTTP (via `requests` library)    |
 | Data Visualization | Streamlit Charts & Progress Bars |
 
-
 ## 📸 Application Screenshots
 
+### 💰 Expense Entry & Update
 <p align="center">
-  <img src="assets/add_update.png" width="45%">
-  <img src="assets/analysis_by_category.png" width="45%">
+  <img src="assets/add_update.png" width="60%">
 </p>
 
+### 📊 Category-wise Analysis
 <p align="center">
-  <img src="assets/analysis_by_month.png" width="45%">
-  <img src="assets/monthly_budget_tracker.png" width="45%">
+  <img src="assets/analysis_by_category.png" width="60%">
 </p>
 
----
+### 📅 Monthly Analysis
+<p align="center">
+  <img src="assets/analysis_by_month.png" width="60%">
+</p>
+
+### 🎯 Budget Tracker
+<p align="center">
+  <img src="assets/monthly_budget_tracker.png" width="60%">
+</p>
 
 🚀 Future Enhancements
 
