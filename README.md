@@ -90,11 +90,6 @@ streamlit run frontend/app.py
   <img src="assets/add_update.png" width="60%">
 </p>
 
-### 📊 Category-wise Analysis
-<p align="center">
-  <img src="assets/analysis_by_category.png" width="60%">
-</p>
-
 ### 📅 Monthly Analysis
 <p align="center">
   <img src="assets/analysis_by_month.png" width="60%">
