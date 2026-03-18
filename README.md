@@ -57,14 +57,22 @@ expense-management-system/
 ```bash
 git clone https://github.com/yourusername/expense-tracking-system.git
 cd expense-tracking-system
-2. Install Dependencies
+```
+
+### 2. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
-3. Run the FastAPI Backend
+### 3. Run the FastAPI Backend
+```bash
 uvicorn backend.server:app --reload
+```
 
-4. Launch the Streamlit Frontend
+### 4. Launch the Streamlit Frontend
+```bash
 streamlit run frontend/app.py
+```
 
 🧠 Tech Stack
 | Component          | Technology                       |
