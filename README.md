@@ -75,17 +75,17 @@ streamlit run frontend/app.py
 | API Communication  | HTTP (via `requests` library)    |
 | Data Visualization | Streamlit Charts & Progress Bars |
 
----
+
 ## 📸 Application Screenshots
 
 <p align="center">
   <img src="assets/add_update.png" width="45%">
-  <img src="assets/analysis by category.png" width="45%">
+  <img src="assets/analysis_by_category.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="assets/analysis by month.png" width="45%">
-  <img src="assets/monthly budget tracker.png" width="45%">
+  <img src="assets/analysis_by_month.png" width="45%">
+  <img src="assets/monthly_budget_tracker.png" width="45%">
 </p>
 
 ---
